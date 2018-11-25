@@ -1,0 +1,9 @@
+D:\C#\cs实验\cs实验\bin\Debug\cs实验.exe.config
+D:\C#\cs实验\cs实验\bin\Debug\cs实验.exe
+D:\C#\cs实验\cs实验\bin\Debug\cs实验.pdb
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.csprojAssemblyReference.cache
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.csproj.CoreCompileInputs.cache
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.exe
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.pdb
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.Form1.resources
+D:\C#\cs实验\cs实验\obj\Debug\cs实验.csproj.GenerateResource.cache

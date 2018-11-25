@@ -1,0 +1,10 @@
+D:\C#\csFormApp\csFormApp\bin\Debug\csFormApp.exe.config
+D:\C#\csFormApp\csFormApp\bin\Debug\csFormApp.exe
+D:\C#\csFormApp\csFormApp\bin\Debug\csFormApp.pdb
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.csprojAssemblyReference.cache
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.Fcontacts.resources
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.Properties.Resources.resources
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.csproj.GenerateResource.cache
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.csproj.CoreCompileInputs.cache
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.exe
+D:\C#\csFormApp\csFormApp\obj\Debug\csFormApp.pdb
